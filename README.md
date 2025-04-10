@@ -30,9 +30,7 @@ This is a simple, responsive e-commerce web app built using **React**, powered b
 
 
 ## 🔗 Live Demo
-
-[Click here to view the live site](https://your-site-name.netlify.app)
-
+https://e-shopsk.netlify.app/
 ## 📁 Getting Started
 
 ### 1. Clone the repository
