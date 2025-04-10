@@ -38,5 +38,5 @@ This is a simple, responsive e-commerce web app built using **React**, powered b
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/kumar-sharvan/E-commerce.git
+cd E-commerce
